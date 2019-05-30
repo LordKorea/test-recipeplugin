@@ -1,0 +1,6 @@
+name: recipeplugin
+author: LordKorea
+version: 1.0.0
+description: plugin for testing PlayerRecipeBookClickEvent
+
+main: test.lordkorea.recipeplugin.RecipePluginMain
